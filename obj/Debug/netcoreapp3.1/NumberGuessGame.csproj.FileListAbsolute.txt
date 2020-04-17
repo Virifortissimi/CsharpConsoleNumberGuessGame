@@ -11,3 +11,16 @@ C:\Users\User\Desktop\C#\NumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame
 C:\Users\User\Desktop\C#\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.dll
 C:\Users\User\Desktop\C#\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.pdb
 C:\Users\User\Desktop\C#\NumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.dll
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.pdb
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.exe
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.deps.json
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.runtimeconfig.json
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.dll
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\bin\Debug\netcoreapp3.1\NumberGuessGame.pdb
+C:\Users\User\Desktop\C#\CsharpConsoleNumberGuessGame\obj\Debug\netcoreapp3.1\NumberGuessGame.genruntimeconfig.cache
