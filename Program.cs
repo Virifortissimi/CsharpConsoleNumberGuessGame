@@ -43,15 +43,14 @@ namespace NumberGuessGame
                 {
                     randomNumber = randm.Next(1,11);
                     chances = 6;
+
                     Console.WriteLine(playGame(1,10,chances,randomNumber,guess));
                 }
-                catch (FormatException e)
+                catch (FormatException ex)
                 {
-                    Console.WriteLine(e.Message);
-                    Console.WriteLine("Start game again. You made a wrong input");
+                    Console.WriteLine($"Error: {ex.Message}");
+                    Console.WriteLine("Start game again!!!");
                 }
-                
-
                 
             }
             else if (levels == "MEDIUM")
@@ -60,12 +59,13 @@ namespace NumberGuessGame
                 {
                     randomNumber = randm.Next(1,21);
                     chances = 4;
+
                     Console.WriteLine(playGame(1,20,chances,randomNumber,guess));
                 }
-                catch (FormatException e)
+                catch (FormatException ex)
                 {
-                    Console.WriteLine(e.Message);
-                    Console.WriteLine("Start game again. You made a wrong input");
+                    Console.WriteLine($"Error: {ex.Message}");
+                    Console.WriteLine("Start game again!!!");
                 }
             }
             else if (levels == "HARD")
@@ -74,14 +74,14 @@ namespace NumberGuessGame
                 {
                     randomNumber = randm.Next(1,51);
                     chances = 3;
+
                     Console.WriteLine(playGame(1,50,chances,randomNumber,guess));
                 }
-                catch (FormatException e)
+                catch (FormatException ex)
                 {
-                    Console.WriteLine(e.Message);
-                    Console.WriteLine("Start game again. You made a wrong input");
-                }
-                
+                    Console.WriteLine($"Error: {ex.Message}");
+                    Console.WriteLine("Start game again!!!");
+                } 
             }
             Console.WriteLine(wrongInputOutput);            
         }
